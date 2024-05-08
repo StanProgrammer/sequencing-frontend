@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ChakraProvider } from '@chakra-ui/react';
 import LoginPage from './components/LoginPage';
 import HomePage from './components/HomePage';
-import { BASE_URL } from "../secret";
+import { BASE_URL } from "./secret";
 function App() {
   const [loggedIn, setLoggedIn] = useState(false);
   const token = localStorage.getItem('token');
