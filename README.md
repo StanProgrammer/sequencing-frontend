@@ -7,7 +7,9 @@ This is an  application that allows users to design and implement an email marke
 - Enable node customization.
 - Provide functionality to save, load, and edit sequences.
 
-## Deployed url:
+## Deployed url: 
+https://sequencing-frontend.onrender.com/
 
 
-##NOTE: This application is in development phase, suggestion and feedback are welcomed.
+## NOTE: 
+This application is in development phase, suggestion and feedback are welcomed.
