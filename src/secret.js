@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://email-sequencing'
+export const BASE_URL = 'https://sequencing-api.onrender.com'
